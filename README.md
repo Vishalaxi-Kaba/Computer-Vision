@@ -11,7 +11,6 @@ This repository provides examples and best practice guidelines for building comp
 
 The Code is written in Python 3.7. To install the required packages and libraries, pip install opencv-python or install in anaconda prompt as -c conda-forge opencv.
 ## Output
-READ IMAGE
 ![PM](https://user-images.githubusercontent.com/94740029/149618530-d4344799-f18e-4806-aa35-874b48d98975.jpg)
 ![Resize](https://user-images.githubusercontent.com/94740029/149618532-bb6a480d-f003-48a5-a514-1c64638eb7bf.jpg)
 ![Grayscale](https://user-images.githubusercontent.com/94740029/149618534-3661d422-8980-4fe7-8e57-44518380618d.jpg)
