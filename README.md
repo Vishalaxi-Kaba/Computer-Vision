@@ -11,7 +11,4 @@ This repository provides examples and best practice guidelines for building comp
 
 The Code is written in Python 3.7. To install the required packages and libraries, pip install opencv-python or install in anaconda prompt as -c conda-forge opencv.
 ## Output
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
